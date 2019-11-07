@@ -1,0 +1,3 @@
+Raster settings:
+Power - 90
+Spped -20
